@@ -1,0 +1,1810 @@
+canonical_identifier: bkk:krp/KR6q0296/X/v1
+canonical_location: https://kanripo.org/bkk/KR6q0296/X/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 普覺宗杲禪師語錄
+  identifiers:
+    krp: KR6q0296
+    cbeta: X69n1362
+    cbeta_old_id: X69n1362
+    authorityid: CA0002486
+    json_key: X1362
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X69/X69n1362.xml
+    old_id: X69n1362
+  edition:
+    short: X
+assets:
+  parts:
+  - {seq: 0, filename: KR6q0296_000-X.yaml, hash: 'sha256:190c3d5e945f4a230ef09e283bbd4daffeb437e3688da9dfad0b7eeba9e2a4bc'}
+  - {seq: 1, filename: KR6q0296_001-X.yaml, hash: 'sha256:18eabed549ddeffa9e5d2f6ed1f904da51ed8936bedd85df81a66124286742d3'}
+  - {seq: 2, filename: KR6q0296_002-X.yaml, hash: 'sha256:398af76cec703c81eb3a4cf5653cc12075a9abbea2ace381b1855ae7f606ab7c'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6q0296_000-X.markers.yaml, hash: 'sha256:08b537272cca224ce7da1a0812c01867db3c25f94dc7ef7880c5445d4debf64f'}
+  - {seq: 1, role: markers, filename: assets/KR6q0296_001-X.markers.yaml, hash: 'sha256:0e0fd7c3d22777e6cc8bb166ce0ef8e2d47071ca86878d7577e8101530bc5fb5'}
+  - {seq: 2, role: markers, filename: assets/KR6q0296_002-X.markers.yaml, hash: 'sha256:78b25589c10e964aab5a1b6d1e9950c17eb1b1e081f9c4e990d7bea0333e1976'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR6q0296_X_000-mulu-1
+    span:
+    - front
+    - 0
+    - 0
+  label: No. 1362-A
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0296_X_001-juan-start
+    span:
+    - body
+    - 0
+    - 18602
+  label: 大慧普覺禪師語錄卷上
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0296_X_001-mulu-1
+    span:
+    - body
+    - 9
+    - 9
+  label: 語錄
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0296_X_002-juan-start
+    span:
+    - body
+    - 0
+    - 15988
+  label: 大慧普覺禪師語錄卷下
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0296_X_002-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 祭文
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0296_X_002-mulu-2
+    span:
+    - body
+    - 0
+    - 0
+  label: 李參政䟦(漢老)
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0296_X_002-mulu-3
+    span:
+    - body
+    - 175
+    - 175
+  label: 張丞相(德遠)
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0296_X_002-mulu-4
+    span:
+    - body
+    - 284
+    - 284
+  label: 李丞相(伯紀)
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0296_X_002-mulu-5
+    span:
+    - body
+    - 413
+    - 413
+  label: 李參政(漢老)
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0296_X_002-mulu-6
+    span:
+    - body
+    - 626
+    - 626
+  label: 李參政(泰發)
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0296_X_002-mulu-7
+    span:
+    - body
+    - 659
+    - 659
+  label: 錢參政(處和)
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0296_X_002-mulu-8
+    span:
+    - body
+    - 822
+    - 822
+  label: 馮給事(濟川)
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0296_X_002-mulu-9
+    span:
+    - body
+    - 986
+    - 986
+  label: 徐侍郎(稚山)
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0296_X_002-mulu-10
+    span:
+    - body
+    - 1047
+    - 1047
+  label: 趙郡王(表之)
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0296_X_002-mulu-11
+    span:
+    - body
+    - 1106
+    - 1106
+  label: 劉侍郎(韶美)
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0296_X_002-mulu-12
+    span:
+    - body
+    - 1205
+    - 1205
+  label: 吳提刑(元昭)
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0296_X_002-mulu-13
+    span:
+    - body
+    - 1308
+    - 1308
+  label: 劉侍郎(季高)
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0296_X_002-mulu-14
+    span:
+    - body
+    - 1353
+    - 1353
+  label: 蔡郎中(子應)
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0296_X_002-mulu-15
+    span:
+    - body
+    - 1427
+    - 1427
+  label: 張徽猷(昭遠)
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0296_X_002-mulu-16
+    span:
+    - body
+    - 1522
+    - 1522
+  label: 鄭學士(尚明)
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0296_X_002-mulu-17
+    span:
+    - body
+    - 1719
+    - 1719
+  label: 鄭參議(禹功)
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0296_X_002-mulu-18
+    span:
+    - body
+    - 1854
+    - 1854
+  label: 陳通判(次仲)
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0296_X_002-mulu-19
+    span:
+    - body
+    - 2011
+    - 2011
+  label: 傅經幹(忠厚)
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0296_X_002-mulu-20
+    span:
+    - body
+    - 2084
+    - 2084
+  label: 特進尚書右僕射同中書門下平章事兼樞密使榮國公湯(思退)
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0296_X_002-mulu-21
+    span:
+    - body
+    - 2289
+    - 2289
+  label: 降授特進樞密使都督江淮軍馬魏國公張(浚)
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0296_X_002-mulu-22
+    span:
+    - body
+    - 2391
+    - 2391
+  label: 右朝請大夫直敷文閣知臨安軍府事賜紫金魚袋陳(輝)
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0296_X_002-mulu-23
+    span:
+    - body
+    - 2503
+    - 2503
+  label: 徽猷閣直學士左朝請大夫致仕劉(岑)
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0296_X_002-mulu-24
+    span:
+    - body
+    - 2746
+    - 2746
+  label: 敷文閣直學士左朝奉大夫提舉江州太平興國宮徐(林)
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0296_X_002-mulu-25
+    span:
+    - body
+    - 2906
+    - 2906
+  label: 降授左朝散大夫敷文閣待制江淮都督府參贊唐(文若)
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0296_X_002-mulu-26
+    span:
+    - body
+    - 3132
+    - 3132
+  label: 左朝奉大夫提舉兩浙東路常平茶鹽公事(喻樗)
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0296_X_002-mulu-27
+    span:
+    - body
+    - 3264
+    - 3264
+  label: 左朝散大夫充敷文閣待制知福州軍州提舉學事充福建路安撫使汪(應辰)
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0296_X_002-mulu-28
+    span:
+    - body
+    - 3426
+    - 3426
+  label: 左承議郎充集英殿修撰知平江府提舉學事張(孝祥)
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0296_X_002-mulu-29
+    span:
+    - body
+    - 3581
+    - 3581
+  label: 右朝議大夫直敷文閣新知鄂州兼管內安撫使方(滋)
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0296_X_002-mulu-30
+    span:
+    - body
+    - 3826
+    - 3826
+  label: 右奉直大夫直秘閣(易)
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0296_X_002-mulu-31
+    span:
+    - body
+    - 4033
+    - 4033
+  label: 左朝奉大夫主管台州崇道觀(黃鉞)
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0296_X_002-mulu-32
+    span:
+    - body
+    - 4217
+    - 4217
+  label: 右朝散郎試將作監李(端民)
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0296_X_002-mulu-33
+    span:
+    - body
+    - 4724
+    - 4724
+  label: 右監門衛大將軍昌州防禦使提舉佑神觀趙(不微)
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0296_X_002-mulu-34
+    span:
+    - body
+    - 4844
+    - 4844
+  label: 右奉議郎知臨安府臨安縣主管學事勸農
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0296_X_002-mulu-35
+    span:
+    - body
+    - 4861
+    - 4861
+  label: 公事賜緋魚袋張(巨卿)
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0296_X_002-mulu-36
+    span:
+    - body
+    - 4870
+    - 4870
+  label: 右修職郎臨安縣主薄莫(漳)
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0296_X_002-mulu-37
+    span:
+    - body
+    - 4881
+    - 4881
+  label: 右修職郎臨安縣尉周(友諒)
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0296_X_002-mulu-38
+    span:
+    - body
+    - 5088
+    - 5088
+  label: 右修職郎權臨安府觀察判官羅(公旦)
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0296_X_002-mulu-39
+    span:
+    - body
+    - 5573
+    - 5573
+  label: 左承直郎添差臨安府觀察判官王(明發)
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0296_X_002-mulu-40
+    span:
+    - body
+    - 5716
+    - 5716
+  label: 清淨居士李(琛)
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0296_X_002-mulu-41
+    span:
+    - body
+    - 5983
+    - 5983
+  label: 淨智居士黃(文昌)
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0296_X_002-mulu-42
+    span:
+    - body
+    - 6258
+    - 6258
+  label: 無住居士袁(祖嚴)
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0296_X_002-mulu-43
+    span:
+    - body
+    - 6373
+    - 6373
+  label: 右修職郎新洪州司法參軍王(中復)
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0296_X_002-mulu-44
+    span:
+    - body
+    - 6663
+    - 6663
+  label: 左文林郎常州軍事判官趙(文悋)
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0296_X_002-mulu-45
+    span:
+    - body
+    - 6785
+    - 6785
+  label: 左文林郎充江淮都督府淮俻差遣(蔡頔)
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0296_X_002-mulu-46
+    span:
+    - body
+    - 6997
+    - 6997
+  label: 右通直郎充江淮都督府幹辦公事羅(博文)
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0296_X_002-mulu-47
+    span:
+    - body
+    - 7349
+    - 7349
+  label: 右通直郎知潭州安化縣事賜緋魚袋向(澣)
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0296_X_002-mulu-48
+    span:
+    - body
+    - 7572
+    - 7572
+  label: 右奉議郎監行在左藏南庫路
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0296_X_002-mulu-49
+    span:
+    - body
+    - 7724
+    - 7724
+  label: 右迪功郎監潭州南嶽廟張(伯厚)
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0296_X_002-mulu-50
+    span:
+    - body
+    - 7907
+    - 7907
+  label: 左朝散郎直秘閣潼川府路提點刑獄公事賜紫金魚袋何(麒)
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0296_X_002-mulu-51
+    span:
+    - body
+    - 8085
+    - 8085
+  label: 右承務郎守太府寺丞王(之奇)
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0296_X_002-mulu-52
+    span:
+    - body
+    - 8402
+    - 8402
+  label: 儔與佛日大慧普覺禪師游逾三紀矣忽聞圓寂不勝悲愴天下獨步宗師云亡孰不歎惜自惟衰耄屏跡海瀕莫遑躬致茶果之奠聊賦詩一首以寫我心云爾　一真居士莫儔
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0296_X_002-mulu-53
+    span:
+    - body
+    - 8526
+    - 8526
+  label: 雙槐居士鄭績隆興改元十月九日致薄祭于大慧普覺禪師塔前遂作五偈以道追慕之情
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0296_X_002-mulu-54
+    span:
+    - body
+    - 8816
+    - 8816
+  label: 讚方外道友
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0296_X_002-mulu-55
+    span:
+    - body
+    - 8821
+    - 8821
+  label: 紫巖居士𦘕像讚(并序)
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0296_X_002-mulu-56
+    span:
+    - body
+    - 9207
+    - 9207
+  label: 侍郎胡公(明仲)𦘕像讚
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0296_X_002-mulu-57
+    span:
+    - body
+    - 9330
+    - 9330
+  label: 游運幹(蕭卿)𦘕像讚
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0296_X_002-mulu-58
+    span:
+    - body
+    - 9406
+    - 9406
+  label: 安撫劉公(方明)𦘕像讚
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0296_X_002-mulu-59
+    span:
+    - body
+    - 9517
+    - 9517
+  label: 直閣向公(宣卿)𦘕像讚(并序)
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0296_X_002-mulu-60
+    span:
+    - body
+    - 9829
+    - 9829
+  label: 又野服像讚(并序)
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0296_X_002-mulu-61
+    span:
+    - body
+    - 10170
+    - 10170
+  label: 峴山居士徐顯謨𦘕像讚
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0296_X_002-mulu-62
+    span:
+    - body
+    - 10338
+    - 10338
+  label: 同前
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0296_X_002-mulu-63
+    span:
+    - body
+    - 10452
+    - 10452
+  label: 張徽猷(昭遠)𦘕像讚
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0296_X_002-mulu-64
+    span:
+    - body
+    - 10498
+    - 10498
+  label: 覺明居士夏運使𦘕像讚
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0296_X_002-mulu-65
+    span:
+    - body
+    - 10559
+    - 10559
+  label: 向侍郎𦘕像讚
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0296_X_002-mulu-66
+    span:
+    - body
+    - 10593
+    - 10593
+  label: 劉通判(彥冲)𦘕像讚
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0296_X_002-mulu-67
+    span:
+    - body
+    - 10617
+    - 10617
+  label: 郭縣丞𦘕像讚
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0296_X_002-mulu-68
+    span:
+    - body
+    - 10687
+    - 10687
+  label: 徐和仲𦘕像讚
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0296_X_002-mulu-69
+    span:
+    - body
+    - 10772
+    - 10772
+  label: 徐明叔𦘕像讚
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0296_X_002-mulu-70
+    span:
+    - body
+    - 10820
+    - 10820
+  label: 同前
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0296_X_002-mulu-71
+    span:
+    - body
+    - 10937
+    - 10937
+  label: 李總幹𦘕像讚
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0296_X_002-mulu-72
+    span:
+    - body
+    - 11013
+    - 11013
+  label: 路撿法𦘕像讚
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0296_X_002-mulu-73
+    span:
+    - body
+    - 11075
+    - 11075
+  label: 本閑居士𦘕像讚
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0296_X_002-mulu-74
+    span:
+    - body
+    - 11144
+    - 11144
+  label: 榮侍郎𦘕像讚
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0296_X_002-mulu-75
+    span:
+    - body
+    - 11201
+    - 11201
+  label: 方經略敷文𦘕像讚
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0296_X_002-mulu-76
+    span:
+    - body
+    - 11237
+    - 11237
+  label: 無相居士𦘕像讚
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0296_X_002-mulu-77
+    span:
+    - body
+    - 11272
+    - 11272
+  label: 太虗居士𦘕像讚
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0296_X_002-mulu-78
+    span:
+    - body
+    - 11330
+    - 11330
+  label: 趙觀察𦘕像讚
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0296_X_002-mulu-79
+    span:
+    - body
+    - 11389
+    - 11389
+  label: 蘇知縣(甫明)𦘕像讚
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0296_X_002-mulu-80
+    span:
+    - body
+    - 11429
+    - 11429
+  label: 孟監場(異夫)𦘕像讚
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0296_X_002-mulu-81
+    span:
+    - body
+    - 11472
+    - 11472
+  label: 徐御藥𦘕像讚(号審觀居士)
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0296_X_002-mulu-82
+    span:
+    - body
+    - 11511
+    - 11511
+  label: 歐陽總幹𦘕像讚
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0296_X_002-mulu-83
+    span:
+    - body
+    - 11546
+    - 11546
+  label: 張都監𦘕像讚
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0296_X_002-mulu-84
+    span:
+    - body
+    - 11580
+    - 11580
+  label: 李光祖𦘕像讚
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0296_X_002-mulu-85
+    span:
+    - body
+    - 11648
+    - 11648
+  label: 陳逍遙𦘕像讚
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0296_X_002-mulu-86
+    span:
+    - body
+    - 11690
+    - 11690
+  label: 無相居士𦘕杜少陵像求讚
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0296_X_002-mulu-87
+    span:
+    - body
+    - 11721
+    - 11721
+  label: 方敷文𦘕東坡先生像求讚(二)
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0296_X_002-mulu-88
+    span:
+    - body
+    - 11760
+    - 11760
+  label: 柯信甫𦘕像讚
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0296_X_002-mulu-89
+    span:
+    - body
+    - 11790
+    - 11790
+  label: 覺苑冲長老求王承宣𦘕像讚
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0296_X_002-mulu-90
+    span:
+    - body
+    - 11914
+    - 11914
+  label: 盧宣教𦘕像讚
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0296_X_002-mulu-91
+    span:
+    - body
+    - 11948
+    - 11948
+  label: 歲寒居士張知府𦘕像讚
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0296_X_002-mulu-92
+    span:
+    - body
+    - 12002
+    - 12002
+  label: 孫郎中求羅先生𦘕像讚
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0296_X_002-mulu-93
+    span:
+    - body
+    - 12043
+    - 12043
+  label: 傅□□𦘕像讚
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0296_X_002-mulu-94
+    span:
+    - body
+    - 12125
+    - 12125
+  label: 妙心居士𦘕像讚
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0296_X_002-mulu-95
+    span:
+    - body
+    - 12161
+    - 12161
+  label: 王校正𦘕像讚
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0296_X_002-mulu-96
+    span:
+    - body
+    - 12195
+    - 12195
+  label: 王子正𦘕像讚
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0296_X_002-mulu-97
+    span:
+    - body
+    - 12229
+    - 12229
+  label: 王大授𦘕像讚
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0296_X_002-mulu-98
+    span:
+    - body
+    - 12299
+    - 12299
+  label: 唐主管携先文𦘕像求讚
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0296_X_002-mulu-99
+    span:
+    - body
+    - 12337
+    - 12337
+  label: 傅□□𦘕像讚
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0296_X_002-mulu-100
+    span:
+    - body
+    - 12369
+    - 12369
+  label: 藺廷彥𦘕像讚
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0296_X_002-mulu-101
+    span:
+    - body
+    - 12403
+    - 12403
+  label: 俞巡撿𦘕像讚
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0296_X_002-mulu-102
+    span:
+    - body
+    - 12437
+    - 12437
+  label: 歐陽提幹𦘕像讚
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0296_X_002-mulu-103
+    span:
+    - body
+    - 12472
+    - 12472
+  label: 羅國信𦘕像讚
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0296_X_002-mulu-104
+    span:
+    - body
+    - 12506
+    - 12506
+  label: 錢計議𦘕像讚
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0296_X_002-mulu-105
+    span:
+    - body
+    - 12542
+    - 12542
+  label: 鮑知府𦘕像讚
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0296_X_002-mulu-106
+    span:
+    - body
+    - 12582
+    - 12582
+  label: 張太尉𦘕像讚
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0296_X_002-mulu-107
+    span:
+    - body
+    - 12609
+    - 12609
+  label: 又作僧像求讚
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0296_X_002-mulu-108
+    span:
+    - body
+    - 12635
+    - 12635
+  label: 董太尉𦘕像讚
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0296_X_002-mulu-109
+    span:
+    - body
+    - 12669
+    - 12669
+  label: 湛淨居士𦘕像讚
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0296_X_002-mulu-110
+    span:
+    - body
+    - 12692
+    - 12692
+  label: 妙觀居士𦘕像讚
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0296_X_002-mulu-111
+    span:
+    - body
+    - 12719
+    - 12719
+  label: 李運使𦘕像讚
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0296_X_002-mulu-112
+    span:
+    - body
+    - 12753
+    - 12753
+  label: 張侍郎𦘕像讚
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0296_X_002-mulu-113
+    span:
+    - body
+    - 12807
+    - 12807
+  label: 趙知宗𦘕像讚
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0296_X_002-mulu-114
+    span:
+    - body
+    - 12841
+    - 12841
+  label: 唐大夫𦘕像讚
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0296_X_002-mulu-115
+    span:
+    - body
+    - 12871
+    - 12871
+  label: 徐侍郎𦘕像讚
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0296_X_002-mulu-116
+    span:
+    - body
+    - 12942
+    - 12942
+  label: 幻住道人𦘕像讚
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0296_X_002-mulu-117
+    span:
+    - body
+    - 13022
+    - 13022
+  label: 楊太保𦘕像讚
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0296_X_002-mulu-118
+    span:
+    - body
+    - 13056
+    - 13056
+  label: 孫參政𦘕像讚
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0296_X_002-mulu-119
+    span:
+    - body
+    - 13078
+    - 13078
+  label: 無垢居士張侍郎𦘕讚
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0296_X_002-mulu-120
+    span:
+    - body
+    - 13142
+    - 13142
+  label: 雙槐居士鄭參議𦘕像讚
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0296_X_002-mulu-121
+    span:
+    - body
+    - 13187
+    - 13187
+  label: 韓尚書𦘕像讚
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0296_X_002-mulu-122
+    span:
+    - body
+    - 13250
+    - 13250
+  label: 錢侍郎𦘕像讚
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0296_X_002-mulu-123
+    span:
+    - body
+    - 13321
+    - 13321
+  label: 妙圓居士張知府𦘕像讚
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0296_X_002-mulu-124
+    span:
+    - body
+    - 13385
+    - 13385
+  label: 讚佛祖
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0296_X_002-mulu-125
+    span:
+    - body
+    - 13388
+    - 13388
+  label: 釋迦出山相
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0296_X_002-mulu-126
+    span:
+    - body
+    - 13409
+    - 13409
+  label: 文殊問疾(二)
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0296_X_002-mulu-127
+    span:
+    - body
+    - 13450
+    - 13450
+  label: 入定觀音(二)
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0296_X_002-mulu-128
+    span:
+    - body
+    - 13503
+    - 13503
+  label: 維摩居士(二)
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0296_X_002-mulu-129
+    span:
+    - body
+    - 13544
+    - 13544
+  label: 觀音達磨相對像
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0296_X_002-mulu-130
+    span:
+    - body
+    - 13591
+    - 13591
+  label: 九祖伏䭾密多尊者
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0296_X_002-mulu-131
+    span:
+    - body
+    - 13623
+    - 13623
+  label: 初祖達磨大師(二)
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0296_X_002-mulu-132
+    span:
+    - body
+    - 13677
+    - 13677
+  label: 二祖
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0296_X_002-mulu-133
+    span:
+    - body
+    - 13699
+    - 13699
+  label: 六祖大鑑禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0296_X_002-mulu-134
+    span:
+    - body
+    - 13737
+    - 13737
+  label: 馬祖大寂禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0296_X_002-mulu-135
+    span:
+    - body
+    - 13761
+    - 13761
+  label: 龐居士(二)
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0296_X_002-mulu-136
+    span:
+    - body
+    - 13813
+    - 13813
+  label: 布袋和尚(四)
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0296_X_002-mulu-137
+    span:
+    - body
+    - 13962
+    - 13962
+  label: 臨濟和尚(三)
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0296_X_002-mulu-138
+    span:
+    - body
+    - 14053
+    - 14053
+  label: 普化和尚
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0296_X_002-mulu-139
+    span:
+    - body
+    - 14085
+    - 14085
+  label: 雪峯真覺禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0296_X_002-mulu-140
+    span:
+    - body
+    - 14123
+    - 14123
+  label: 法眼李王相對像
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0296_X_002-mulu-141
+    span:
+    - body
+    - 14158
+    - 14158
+  label: 言法華
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0296_X_002-mulu-142
+    span:
+    - body
+    - 14209
+    - 14209
+  label: 五祖和尚
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0296_X_002-mulu-143
+    span:
+    - body
+    - 14253
+    - 14253
+  label: 圓悟禪師(四)
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0296_X_002-mulu-144
+    span:
+    - body
+    - 14405
+    - 14405
+  label: 覺範洪禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0296_X_002-mulu-145
+    span:
+    - body
+    - 14479
+    - 14479
+  label: 死心和尚
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0296_X_002-mulu-146
+    span:
+    - body
+    - 14499
+    - 14499
+  label: 佛燈珣和尚
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0296_X_002-mulu-147
+    span:
+    - body
+    - 14548
+    - 14548
+  label: 南華昺和尚
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0296_X_002-mulu-148
+    span:
+    - body
+    - 14593
+    - 14593
+  label: 牧庵忠和尚
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0296_X_002-mulu-149
+    span:
+    - body
+    - 14648
+    - 14648
+  label: 和山方和尚
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0296_X_002-mulu-150
+    span:
+    - body
+    - 14681
+    - 14681
+  label: 普照英和尚
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0296_X_002-mulu-151
+    span:
+    - body
+    - 14763
+    - 14763
+  label: 普照欽和尚
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0296_X_002-mulu-152
+    span:
+    - body
+    - 14796
+    - 14796
+  label: 佛日才和尚
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0296_X_002-mulu-153
+    span:
+    - body
+    - 14821
+    - 14821
+  label: 普明和尚
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0296_X_002-mulu-154
+    span:
+    - body
+    - 14896
+    - 14896
+  label: 泉州勝和尚
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0296_X_002-mulu-155
+    span:
+    - body
+    - 14976
+    - 14976
+  label: 妙空佛海訥和尚
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0296_X_002-mulu-156
+    span:
+    - body
+    - 15046
+    - 15046
+  label: 含清照和尚
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0296_X_002-mulu-157
+    span:
+    - body
+    - 15071
+    - 15071
+  label: 天王光和尚
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0296_X_002-mulu-158
+    span:
+    - body
+    - 15108
+    - 15108
+  label: 開善護和尚
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0296_X_002-mulu-159
+    span:
+    - body
+    - 15145
+    - 15145
+  label: 南華明和尚
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0296_X_002-mulu-160
+    span:
+    - body
+    - 15182
+    - 15182
+  label: 南安巖瑯和尚
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0296_X_002-mulu-161
+    span:
+    - body
+    - 15226
+    - 15226
+  label: 玄沙昭和尚
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0296_X_002-mulu-162
+    span:
+    - body
+    - 15266
+    - 15266
+  label: 慈雲祖和尚
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0296_X_002-mulu-163
+    span:
+    - body
+    - 15299
+    - 15299
+  label: 國清遠和尚
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0296_X_002-mulu-164
+    span:
+    - body
+    - 15333
+    - 15333
+  label: 溈山慧和尚
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0296_X_002-mulu-165
+    span:
+    - body
+    - 15366
+    - 15366
+  label: 能仁敏和尚
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0296_X_002-mulu-166
+    span:
+    - body
+    - 15406
+    - 15406
+  label: 正堂辯和尚
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0296_X_002-mulu-167
+    span:
+    - body
+    - 15455
+    - 15455
+  label: 山東惠雲金師翁
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0296_X_002-mulu-168
+    span:
+    - body
+    - 15478
+    - 15478
+  label: 山東惠雲周師翁
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0296_X_002-mulu-169
+    span:
+    - body
+    - 15515
+    - 15515
+  label: 鹽官慧生庵主
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0296_X_002-mulu-170
+    span:
+    - body
+    - 15561
+    - 15561
+  label: 喻彌陀
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0296_X_002-mulu-171
+    span:
+    - body
+    - 15584
+    - 15584
+  label: 萃長老寫宏智禪師與師相對像求讚
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0296_X_002-mulu-172
+    span:
+    - body
+    - 15633
+    - 15633
+  label: 保寧秀和尚
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0296_X_002-mulu-173
+    span:
+    - body
+    - 15692
+    - 15692
+  label: 夢庵信和尚(二)
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0296_X_002-mulu-174
+    span:
+    - body
+    - 15742
+    - 15742
+  label: No. 1362-B
+  type: mulu
+  level: 1
+hash: sha256:a3823e692c20ab77582425e76f1648b20405ea3c0c64e9f414d285165ce7bc1e

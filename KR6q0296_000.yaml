@@ -1,0 +1,19 @@
+canonical_identifier: bkk:krp/KR6q0296/x/v1/juan/0
+seq: 0
+front:
+  text: 祖慶嘗欲焚前録俾學者自悟西來直指不滯文字語言今復鏤此板何也正欲枷上著杻縛上增繩令渠自透自脫靈剎漢一見便知落處更於此録求玄妙尋言句一任鑽龜打瓦淳熙戊申重陽日住鐘山小師祖慶謹書
+  hash: sha256:0a188bcf30c9ade171dabfe867cfd55fb16b1e1e7c5af1f8a407d47ab27ee847
+  markers:
+  - {type: 序, offset: 0, content: No. 1362-A, id: KR6q0296_X_000-mulu-1, level: '1'}
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 普覺宗杲禪師語錄
+  edition:
+    short: x
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X69/X69n1362.xml
+    old_id: X69n1362
+hash: sha256:d2f3e840f018d63a33d48c09fe1d0e677bcc9a93e0978f9a5fdbc845a0fde87f
